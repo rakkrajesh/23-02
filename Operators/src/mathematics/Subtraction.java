@@ -10,7 +10,9 @@ public class Subtraction
 	}
 //	int sub = c-d;
 //	System.out.println(sub);
-	System.out.println(c-d);
+public void MathSub() {
+	// TODO Auto-generated method stub
+	int Sub= c-d;
+	System.out.println("Then the subtraction will "+ Sub);
 }
-0100
-1011
+}
