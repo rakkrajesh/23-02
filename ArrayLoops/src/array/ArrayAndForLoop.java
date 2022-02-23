@@ -11,6 +11,10 @@ public class ArrayAndForLoop {
 		}
 		
 		Arrays.sort(word);
+		for (char wordsly : word) {
+			System.out.println(wordsly);
+		}
+		
 		
 	}
 }
